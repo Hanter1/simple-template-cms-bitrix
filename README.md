@@ -1,1 +1,1 @@
-# birki-print-cms-bitrix
+# simple-template-cms-bitrix
